@@ -1,5 +1,15 @@
 # alpha_protocol_example
 
+clone and init submodules
+
+```bash
+git clone https://github.com/KMJ-007/alpha_protocol_example
+cd alpha_protocol_example
+git submodule update --init --recursive
+```
+
+
+
 To install dependencies:
 
 ```bash
